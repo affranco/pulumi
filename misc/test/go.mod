@@ -3,7 +3,7 @@ module github.com/pulumi/examples
 go 1.13
 
 require (
-	github.com/aws/aws-sdk-go v1.29.27
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/onsi/ginkgo v1.12.0 // indirect
 	github.com/onsi/gomega v1.9.0 // indirect
